@@ -1,9 +1,7 @@
 package com.challenge.rangdeapp.urls;
 
 
-/**
- * Created by Jason on 16/01/2017.
- */
+
 public class LoginURL extends RangDeURL {
     String email,password;
     public LoginURL(String email,String password){
