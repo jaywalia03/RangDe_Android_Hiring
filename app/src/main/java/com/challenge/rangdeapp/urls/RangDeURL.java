@@ -38,16 +38,10 @@ public class RangDeURL {
             String jsonstring = strbuilder.toString();
 
             is.close();
-            Log.d("ADP_Service", jsonstring);
+
 
             return jsonstring;
-            //respondToLoginCallback(jsonstring);
 
-            //  Log.d("ADP_Service", Arrays.toString(getMoviesArrayList(jsonstring).toArray()));
-            //   imovielist.onUpdateMovieNames(getMoviesArrayList(jsonstring));
-
-
-            // MainActivity.onUpdateMovieList(getMoviesArrayList(jsonstring));
         } catch (IOException e) {
             e.printStackTrace();
         }
