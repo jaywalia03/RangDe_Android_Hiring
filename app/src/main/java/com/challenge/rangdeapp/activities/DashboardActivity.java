@@ -24,7 +24,7 @@ import org.json.JSONObject;
 /**
  * Created by Jason on 16/01/2017.
  */
-/** changes made by gauravseta*/
+/** changes made by gauravseta*//* fro demo purpose*/
 public class DashboardActivity extends AppCompatActivity {
     TextView txt_apikey,txt_profileName,txt_accounttype;
     IRangDeServiceCommunication rangDeServiceCommunication;
