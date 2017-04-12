@@ -26,7 +26,7 @@ import com.challenge.rangdeapp.utils.GlobalMaintainer;
 /**
  * Created by Jason on 16/01/2017.
  */
-/* File has been changed*/
+/* File has been changed*//*For demo purpose*/
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
     IRangDeServiceCommunication rangDeServiceCommunication;
     Button btn_login;
